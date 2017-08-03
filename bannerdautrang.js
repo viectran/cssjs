@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://4.bp.blogspot.com/-OKy5THRsVZU/WYLeHSjeoHI/AAAAAAAAGZo/_adZSnrz0h4BBvfrAuUkCg_Mts0IMq_cwCLcBGAs/s1600/19225259_1297722283677767_4450286120877722874_n.jpg' width='500px'/><br/>Nhận bảng giá Dự án Mizuki Park Nam Long</a>. LH Hotline tư vấn: 0938 096 983. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://duanmizukiparknamlong.blogspot.com' target='_blank'><img src='https://4.bp.blogspot.com/-OKy5THRsVZU/WYLeHSjeoHI/AAAAAAAAGZo/_adZSnrz0h4BBvfrAuUkCg_Mts0IMq_cwCLcBGAs/s1600/19225259_1297722283677767_4450286120877722874_n.jpg' width='500px'/><br/>Nhận bảng giá Dự án Mizuki Park Nam Long</a>. LH Hotline tư vấn: 0938 096 983. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
